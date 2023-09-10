@@ -1,4 +1,4 @@
-# Smart Vehicle Accident Alert System Readme
+# Smart Vehicle Accident Alert System
 
 ## Overview
 
