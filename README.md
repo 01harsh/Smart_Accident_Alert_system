@@ -1,8 +1,11 @@
 # Smart Vehicle Accident Alert System
+![Screenshot (361)](https://github.com/01harsh/Smart_Accident_Alert_system/assets/60311625/c6ad4f22-3c87-44c7-b717-bb41511a3e81)
 
 ## Overview
 
 Welcome to the Smart Vehicle Accident Alert System! This system is designed to enhance road safety by detecting accidents using IoT sensors, notifying relevant parties through a call rendering system powered by Twilio, accessing live location through a Geolocation API, storing user and vehicle data in real-time using PostgreSQL, and predicting accident severity using a Support Vector Machine (SVM) algorithm.
+![Screenshot (364)](https://github.com/01harsh/Smart_Accident_Alert_system/assets/60311625/aba7f6b4-5953-4ac6-8c49-f042778ac8a6)
+![Screenshot (363)](https://github.com/01harsh/Smart_Accident_Alert_system/assets/60311625/530ab531-c833-426e-84ea-ae7bea0b3dbf)
 
 ## Features
 
@@ -26,3 +29,4 @@ The system utilizes PostgreSQL, a robust relational database management system, 
 
 To assist emergency responders in understanding the potential severity of an accident, the system employs a Support Vector Machine (SVM) algorithm. This machine learning model analyzes sensor data from the accident scene and predicts the accident's severity. This prediction is invaluable for dispatching the appropriate resources and medical personnel to the accident site.
 
+![Screenshot (362)](https://github.com/01harsh/Smart_Accident_Alert_system/assets/60311625/5dc1b4d2-50cd-4ad4-a051-eedc839fef38)
